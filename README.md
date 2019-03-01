@@ -7,6 +7,7 @@ To instal plugin ;
   (this file got the correct classes that goes along with the css and JQuery, just copy paste the HTML gallery code into your own     project.)
 2. Link the gallery.css file to your project below all other link in head.
 3. Link the gallery-plugin.js to your project below all other script in body. 
+4. If you run into problems just imitate my way of setting things up when it comes to folder setup etc. you can also just download the whole project and edit it the way you want.
 
 
 
